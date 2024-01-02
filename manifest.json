@@ -1,7 +1,7 @@
 {
     "name": "NoSprayInShip",
     "author": "Electric131",
-    "website_url": "https://github.com/Electric131/IsThisTheWayICame",
+    "website_url": "https://github.com/Electric131/NoSprayInShip",
     "version_number": "1.0.0",
     "description": "Stop players from using spray cans in the ship.",
     "dependencies": [
