@@ -1,0 +1,10 @@
+{
+    "name": "NoSprayInShip",
+    "author": "Electric131",
+    "website_url": "https://github.com/Electric131/IsThisTheWayICame",
+    "version_number": "1.0.0",
+    "description": "Stop players from using spray cans in the ship.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
